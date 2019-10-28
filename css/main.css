@@ -14,7 +14,7 @@ body {
 }
 
 h1 {
-  font-family: bevan, cursive;
+  font-family: Bevan, serif;
   line-height: 1.5;
   font-weight: bold;
   font-size: 2rem;
@@ -49,6 +49,6 @@ header {
   margin: 0 auto;
 }
 
-nav .cards li:hover {
+nav .cards a:hover {
   background-color: #f33;
 }
