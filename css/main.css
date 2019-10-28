@@ -51,4 +51,6 @@ header {
 
 nav .cards li:hover {
   background-color: #f33;
+  border-color: inherit;
+  color: #fff;
 }
