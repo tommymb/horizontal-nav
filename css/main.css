@@ -42,7 +42,7 @@ header {
 
 .cards li {
   display: inline-block;
-  padding: .75em;
+  padding: .5em;
   color: #fff;
   background-color: #713837;
   border-radius: 5px;
