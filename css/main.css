@@ -1,4 +1,4 @@
-html{
+html {
   box-sizing: border-box;
   background-color: #dbd6cf;
   font-family: sans-serif;
@@ -8,15 +8,17 @@ html{
   box-sizing: inherit;
 }
 
-h1{
-  font-family: bevan;
+h1 {
+  font-family: 'Bevan', cursive;
   line-height: 1.5;
   font-weight: bold;
-  font-size: 1.5rem;
+  font-size: 2.5rem;
   color: #fff;
+  text-align: center;
 }
 
-ul{
+ul {
+  text-align: center;
   font-family: sans-serif;
   line-height: 1.5;
   font-weight: normal;
@@ -25,9 +27,16 @@ ul{
   list-style-type: none;
 }
 
-header{
+header {
   display: block;
   background-color: #79756f;
-  margin-top: .3em;
-  margin-bottom: .3em;
+  border-top: 5px solid #595652;
+  border-bottom: 5px solid #595652;
+}
+
+.cards li {
+  display: inline-block;
+  padding: .75em;
+  background-color: #713837;
+  border-radius: 5px;
 }
