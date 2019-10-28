@@ -21,7 +21,7 @@ ul {
   text-align: center;
   font-family: sans-serif;
   line-height: 1.5;
-  font-weight: normal;
+  font-weight: bold;
   font-size: 1.125rem;
   color: #fff;
   list-style-type: none;
@@ -42,6 +42,6 @@ header {
   margin: 0 auto;
 }
 
-nav .cards li:hover{
+nav .cards li:hover {
   background-color: #f33;
 }
