@@ -20,6 +20,14 @@ ol{
   font-family: sans-serif;
   line-height: 1.5;
   font-weight: normal;
-  font-size: 1.125;
+  font-size: 1.125rem;
   color: #fff;
+  list-style-type: none;
+}
+
+body{
+  display: block;
+  color: #79756f;
+  margin-top: .3em;
+  margin-bottom: .3em;
 }
