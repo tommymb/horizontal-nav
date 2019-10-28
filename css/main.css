@@ -8,6 +8,10 @@ html {
   box-sizing: inherit;
 }
 
+body {
+  background-color: #dbd6cf
+}
+
 h1 {
   font-family: Bevan, cursive;
   line-height: 1.5;
